@@ -11,7 +11,20 @@
   "footer": "Made with PhpStorm, Mustache.js, Materialize, Sass, Git and more…",
   "cv": "Guillaume%20Migeon%20-%20CV%20en.pdf",
   "project": [
-  {
+    {
+      "description": "A JS library which allows you to add a virtual keyboard on a web site or app.",
+      "img": "canvaskeyboard.png",
+      "imgalt": "CanvasKeyboard",
+      "link": "http://62.210.236.193/csgobindsgenerator",
+      "sources": "https://github.com/Outpox/CanvasKeyboard",
+      "tags": [
+        {"tag": "open-source"},
+        {"tag": "library"},
+        {"tag": "javascript"}
+      ],
+      "title": "CanvasKeyboard"
+    },
+    {
       "title": "Yopmail Helper",
       "link": "https://chrome.google.com/webstore/detail/yopmail-helper/hblcpgekfpenakehekkfgoadijffdhne?hl=fr",
       "sources": "https://github.com/Outpox/Yopmail-Helper",
@@ -21,7 +34,6 @@
       "tags": [
         {"tag": "open-source"},
         {"tag": "Chrome"},
-        {"tag": "Firefox"},
         {"tag": "extension"}
       ]
     },
@@ -109,14 +121,14 @@
     },
     {
       "title": "Portfolio",
-      "link": "#",
+      "sources": "https://github.com/Outpox/Portfolio",
       "img": "portfolio.png",
       "imgalt": "portfolio",
       "description": "This portfolio which let me display my released projects.",
       "tags": [
         {"tag": "html5"},
         {"tag": "jQuery"},
-        {"tag": "Mustache"},
+        {"tag": "Vue.js"},
         {"tag": "Materialize"}
       ]
     },

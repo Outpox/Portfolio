@@ -1,9 +1,8 @@
 var app = new Vue({
     el: '#app',
     data: {
-        languages: ['french', 'english'],
         age: '',
-        currentLang: 'fr',
+        currentLang: 'en',
         jsonData: {}
     },
     ready: function () {
@@ -11,9 +10,16 @@ var app = new Vue({
 
         self.age = self.getAge();
 
+        if (localStorage.getItem("lang") == null) {
+            localStorage.setItem("lang", self.currentLang);
+        }
+        else {
+            self.currentLang = localStorage.getItem("lang");
+        }
+        self.setSelectedLanguage(self.currentLang);
+
         self.callAjax("data/" + this.currentLang + ".json", function (data) {
             self.jsonData = JSON.parse(data);
-            console.log(self.jsonData);
         });
 
         //jQuery part
@@ -24,6 +30,24 @@ var app = new Vue({
         })(jQuery);
     },
     methods: {
+        setLanguage: function (lang) {
+            var self = this;
+            localStorage.setItem("lang", lang);
+            self.callAjax("data/" + lang + ".json", function (data) {
+                self.jsonData = JSON.parse(data);
+            });
+            self.setSelectedLanguage(lang);
+        },
+        setSelectedLanguage: function (lang) {
+            var classes = "z-depth-1 green lighten-4";
+
+            var li = $("#language").find("li");
+            for (var i = 0, l = li.length; i < l; i++) {
+                $("#" + li[i].id).removeClass(classes);
+            }
+
+            $("#" + lang).addClass(classes);
+        },
         //Source : http://stackoverflow.com/questions/4060004/calculate-age-in-javascript/7091965#7091965
         getAge: function () {
             var today = new Date();

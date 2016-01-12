@@ -4,14 +4,27 @@
   "about": "A propos de moi",
   "intro": "Je m'appelle Guillaume Migeon, j'ai 22 ans et je suis développeur web et adepte de nouvelles technologies.",
   "story": "Présentation",
-  "story_text": "Je suis actuellement en CDI chez <a href='http://www.juxta.fr/'>Juxta</a>. Pendant mon temps libre, je travaille sur des projets personnels en testant de nouvelles choses et plus particulièrement des extensions Chrome et Firefox.</br></br>Parmis les outils que j'affectionne se trouvent git, mon terminal bash, npm (que j'utilise désormais <a href='http://blog.keithcirkel.co.uk/why-we-should-stop-using-grunt/' target='_blank'> à la place de Grunt/Gulp</a>), bower, jquery, mustachejs et composer.",
+  "story_text": "Je travaille actuellement chez <a href='http://www.juxta.fr/'>Juxta</a>. Pendant mon temps libre, je travaille sur des projets personnels en testant de nouvelles choses et plus particulièrement des extensions Chrome et Firefox.</br></br>Parmis les outils que j'affectionne se trouvent git, mon terminal bash, npm (que j'utilise désormais <a href='http://blog.keithcirkel.co.uk/why-we-should-stop-using-grunt/' target='_blank'> à la place de Grunt/Gulp</a>), bower, jquery, mustachejs et composer.",
   "profile": "Profile",
   "project_text": "Projets",
   "try": "Essayer",
-  "footer": "Fait avec PhpStorm, Mustache.js, Materialize, Sass, Git et plus…",
+  "footer": "Fait avec PhpStorm, Vue.js, Materialize et Git",
   "cv": "Guillaume%20Migeon%20-%20CV.pdf",
   "project": [
-  {
+    {
+      "description": "Une librairie JS permettant d'ajouter un clavier virtuel sur un site ou une appli web.",
+      "img": "canvaskeyboard.png",
+      "imgalt": "CanvasKeyboard",
+      "link": "http://62.210.236.193/csgobindsgenerator",
+      "sources": "https://github.com/Outpox/CanvasKeyboard",
+      "tags": [
+        {"tag": "open-source"},
+        {"tag": "librairie"},
+        {"tag": "javascript"}
+      ],
+      "title": "CanvasKeyboard"
+    },
+    {
       "title": "Yopmail Helper",
       "link": "https://chrome.google.com/webstore/detail/yopmail-helper/hblcpgekfpenakehekkfgoadijffdhne?hl=fr",
       "sources": "https://github.com/Outpox/Yopmail-Helper",
@@ -21,7 +34,6 @@
       "tags": [
         {"tag": "open-source"},
         {"tag": "Chrome"},
-        {"tag": "Firefox"},
         {"tag": "extension"}
       ]
     },
@@ -109,14 +121,14 @@
     },
     {
       "title": "Portfolio",
-      "link": "#",
+      "sources": "https://github.com/Outpox/Portfolio",
       "img": "portfolio.png",
       "imgalt": "portfolio",
       "description": "Ce portfolio qui me permet de présenter mes projets mis en ligne.",
       "tags": [
         {"tag": "html5"},
         {"tag": "jQuery"},
-        {"tag": "Mustache"},
+        {"tag": "Vue.js"},
         {"tag": "Materialize"}
       ]
     },

@@ -32,3 +32,38 @@ hr {
     font-size: 1.2rem;
     line-height: 27px;
 }
+
+.tag-container {
+    text-align: center;
+}
+
+.tag {
+    padding: 1% 2%;
+    margin: 0 1%;
+    color: #f5f5f5;
+    border-radius: 2px;
+}
+
+#language-btn {
+    z-index: 9999;
+    position: fixed;
+    transition: 1s;
+    top: 20px;
+    right: 70px;
+}
+
+#language-btn li {
+    text-align: center;
+}
+
+#language-btn li img {
+    vertical-align: middle;
+}
+
+#cv-btn {
+    z-index: 9998;
+    position: fixed;
+    transition: 1.3s;
+    top: 20px;
+    right: 20px;
+}
