@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1.0"/>
+    <title>Guillaume Migeon - Portfolio</title>
+
+    <!-- CSS  -->
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+    <link href="node_modules/materialize-css/bin/materialize.css" type="text/css" rel="stylesheet"
+          media="screen,projection"/>
+    <link href="css/style.css" type="text/css" rel="stylesheet" media="screen,projection"/>
+</head>
+<body id="app">
+<header class="intro light-green darken-4 z-depth-1">
+    <h1 class="grey-text text-lighten-5">Guillaume Migeon</h1>
+    <div class="row">
+        <div class="col s6 offset-s3 m2 offset-m5">
+            <img src="img/photo.jpg" alt="Personnal picture" class="responsive-img circle"/>
+        </div>
+    </div>
+    <h5 class="grey lighten-4 grey-text text-darken-1">{{jsonData.title}}</h5>
+</header>
+
+<main>
+    <div class="container center">
+        <h5>{{jsonData.about}}</h5>
+        <h6 class="flow-text">{{jsonData.intro}}</h6>
+        <hr/>
+        <div class="row">
+            <div class="col s12 m10 offset-m1">
+                <h5>{{jsonData.story}}</h5>
+
+                <p class="flow-text">{{{jsonData.story_text}}}</p>
+            </div>
+        </div>
+        <hr/>
+        <h5>{{jsonData.project_text}}</h5>
+    </div>
+
+
+    <div id="projects" class="row">
+        <div class="col s12 m6 l3">
+            <div class="card medium">
+                <div class="card-image">
+                    <img src="" alt="osef">
+                </div>
+                <div class="card-content">
+                    <div class="chips-container">
+                        <span class="chips">tag</span>
+                    </div>
+                    <h5>title</h5>
+
+                    <p>description</p>
+                </div>
+                <div class="card-action">
+                    <a href="" target="_blank">Sources</a>
+                    <a href="" target="_blank">try</a>
+                </div>
+            </div>
+        </div>
+    </div>
+</main>
+
+<footer class="page-footer orange">
+    <div class="footer-copyright">
+        <div class="container">
+            Made with Materialize
+        </div>
+    </div>
+</footer>
+
+
+<!--  Scripts-->
+<script src="node_modules/jquery/dist/jquery.min.js"></script>
+<script src="node_modules/materialize-css/bin/materialize.js"></script>
+<script src="js/index.js"></script>
+<script src="node_modules/vue/dist/vue.js"></script>
+<script src="js/app.js"></script>
+</body>
+</html>

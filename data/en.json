@@ -1,0 +1,137 @@
+{
+  "path": "img/",
+  "title": "Open-source web developer",
+  "about": "About me",
+  "intro": "My name is Guillaume Migeon, I'm 22 years old and I'm a new technologies adept web developer.",
+  "story": "Introduction",
+  "story_text": "I'm currently working fulltime at <a href='http://www.juxta.fr/'>Juxta</a>, in France. On my free time I work on personal projects to learn new tools and improve myself and more particularly on Chrome and Firefox extension.</br></br>Among all the tools I use, I really enjoy git, my bash terminal, npm (that I now use <a href='http://blog.keithcirkel.co.uk/why-we-should-stop-using-grunt/' target=_'blank'> instead of Grunt/Gulp</a>), bower, jquery, mustachejs and composer.",
+  "profile": "Profile",
+  "project_text": "Projects",
+  "try": "Try",
+  "footer": "Made with PhpStorm, Mustache.js, Materialize, Sass, Git and more…",
+  "cv": "Guillaume%20Migeon%20-%20CV%20en.pdf",
+  "project": [
+  {
+      "title": "Yopmail Helper",
+      "link": "https://chrome.google.com/webstore/detail/yopmail-helper/hblcpgekfpenakehekkfgoadijffdhne?hl=fr",
+      "sources": "https://github.com/Outpox/Yopmail-Helper",
+      "img": "yopmail.png",
+      "imgalt": "Yopmail Helper",
+      "description": "An extension which helps you use several Yopmail email adresses. Work in progress.",
+      "tags": [
+        {"tag": "open-source"},
+        {"tag": "Chrome"},
+        {"tag": "Firefox"},
+        {"tag": "extension"}
+      ]
+    },
+    {
+      "title": "TFS Helper",
+      "link": "https://chrome.google.com/webstore/detail/tfs-helper/hgkccagjdaakfindnlkamkcibmpbmppm?hl=fr",
+      "sources": "https://github.com/Outpox/TFS-Helper",
+      "img": "tfshelper.png",
+      "imgalt": "TFS Helper",
+      "description": "Open the description content of a TFS task in a popup for easier reading.",
+      "tags": [
+        {"tag": "open-source"},
+        {"tag": "Chrome"},
+        {"tag": "Firefox"},
+        {"tag": "extension"}
+      ]
+    },
+    {
+      "title": "ChronoStan",
+      "link": "http://chronostan.fr/",
+      "sources": "https://github.com/Outpox/Stan",
+      "img": "chronostan_cropped.png",
+      "imgalt": "chronostan.fr",
+      "description": "Determine the closest tram station in Nancy, France and gives you the incoming timetables.",
+      "tags": [
+        {"tag": "open-source"},
+        {"tag": "php5"},
+        {"tag": "jQuery"},
+        {"tag": "mobile"}
+      ]
+    },
+    {
+      "title": "CS:GO Binds Generator",
+      "link": "http://csgobindsgenerator.com/",
+      "sources": "https://github.com/Outpox/csgo-binds-generator",
+      "img": "csgobg.png",
+      "imgalt": "CS:GO Binds Generator",
+      "description": "Open-source tool which helps you create binds in the game Counter-Strike:GO.",
+      "tags": [
+        {"tag": "open-source"},
+        {"tag": "html5"},
+        {"tag": "css3"},
+        {"tag": "javascript"}
+      ]
+    },
+    {
+      "title": "CS:GO Binds Generator Beta",
+      "link": "http://62.210.236.193/",
+      "sources": "https://github.com/Outpox/csgo-binds-generator/tree/angular",
+      "img": "csgobgb.png",
+      "imgalt": "CS:GO Binds Generator Beta",
+      "description": "Complete rework of the app with AngularJS.",
+      "tags": [
+        {"tag": "open-source"},
+        {"tag": "html5"},
+        {"tag": "angular material"}
+      ]
+    },
+    {
+      "title": "C4FE",
+      "link": "http://62.210.236.193/C4FE-TEST/app/",
+      "sources": "https://github.com/Outpox/OC4FE",
+      "img": "oc4fe.jpg",
+      "imgalt": "C4FE",
+      "description": "Helps you organize whose turn it is to pay the coffee",
+      "tags": [
+        {"tag": "open-source"},
+        {"tag": "mean"},
+        {"tag": "angular material"}
+      ]
+    },
+    {
+      "title": "Remind me later",
+      "link": "https://chrome.google.com/webstore/detail/remind-me-later/kjmlffmiibifbajomhhoojpgmdiccknj",
+      "sources": "https://github.com/Outpox/Remind-me-later",
+      "img": "remindme.png",
+      "imgalt": "Remind me later",
+      "description": "Google Chrome extension which goal is to remind you tabs in a given time.",
+      "tags": [
+        {"tag": "open-source"},
+        {"tag": "html5"},
+        {"tag": "chrome"},
+        {"tag": "jQuery"}
+      ]
+    },
+    {
+      "title": "Portfolio",
+      "link": "#",
+      "img": "portfolio.png",
+      "imgalt": "portfolio",
+      "description": "This portfolio which let me display my released projects.",
+      "tags": [
+        {"tag": "html5"},
+        {"tag": "jQuery"},
+        {"tag": "Mustache"},
+        {"tag": "Materialize"}
+      ]
+    },
+    {
+      "title": "Calendar application",
+      "link": "https://ccmagnetisme-reservation.ijl.univ-lorraine.fr/",
+      "img": "calendar.png",
+      "imgalt": "ccmagnetisme calendar",
+      "description": "Calendar application made during my internship in 2014 for the CC Magnetisme laboratory.",
+      "tags": [
+        {"tag": "php5"},
+        {"tag": "mysql"},
+        {"tag": "html5"},
+        {"tag": "jQuery"}
+      ]
+    }
+  ]
+}
