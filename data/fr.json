@@ -9,7 +9,7 @@
   "project_text": "Projets",
   "try": "Essayer",
   "footer": "Fait avec PhpStorm, Vue.js, Materialize et Git",
-  "cv": "Guillaume%20Migeon%20-%20CV.pdf",
+  "cv": "CV_FR_Guillaume_Migeon.png",
   "project": [
     {
       "description": "Une librairie JS permettant d'ajouter un clavier virtuel sur un site ou une appli web.",
