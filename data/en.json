@@ -12,6 +12,19 @@
   "cv": "CV_FR_Guillaume_Migeon.png",
   "project": [
     {
+      "description": "A desktop app which allows you to make a Linux live USB. This is a work in progress !",
+      "img": "liliusm.png",
+      "imgalt": "Liliusm",
+      "sources": "https://github.com/Outpox/Liliusm",
+      "tags": [
+        {"tag": "open-source"},
+        {"tag": "electron"},
+        {"tag": "nodejs"},
+        {"tag": "desktop"}
+      ],
+      "title": "Liliusm"
+    },
+    {
       "description": "A JS library which allows you to add a virtual keyboard on a web site or app.",
       "img": "canvaskeyboard.png",
       "imgalt": "CanvasKeyboard",
