@@ -9,7 +9,7 @@
   "project_text": "Projets",
   "try": "Essayer",
   "footer": "Fait avec PhpStorm, Vue.js, Materialize et Git",
-  "cv": "CV_FR_Guillaume_Migeon.png",
+  "cv": "index.html?lang-fr",
   "project": [
     {
       "description": "Une application desktop qui permet de faire un live USB linux. Travail en cours !",

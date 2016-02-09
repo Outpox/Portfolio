@@ -9,7 +9,7 @@
   "project_text": "Projects",
   "try": "Try",
   "footer": "Made with PhpStorm, Mustache.js, Materialize, Sass, Git and more…",
-  "cv": "CV_FR_Guillaume_Migeon.png",
+  "cv": "index.html?lang=en",
   "project": [
     {
       "description": "A desktop app which allows you to make a Linux live USB. This is a work in progress !",
