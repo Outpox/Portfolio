@@ -13,6 +13,19 @@
   "cv": "CV_FR_Guillaume_Migeon.png",
   "project": [
     {
+      "title": "QuizzBot",
+      "description": "Un bot IRC qui pose des questions !",
+      "img": "quizzbot.png",
+      "imgalt": "QuizzBot",
+      "sources": "https://github.com/Outpox/quizzbot",
+      "link": "https://kiwiirc.com/client/62.210.236.193/quizz",
+      "tags": [
+        {"tag": "open-source"},
+        {"tag": "nodejs"}
+      ]
+    },
+    {
+      "title": "Liliusm",
       "description": "Une application desktop qui permet de faire un live USB linux. Travail en cours !",
       "img": "liliusm.png",
       "imgalt": "Liliusm",
@@ -22,10 +35,10 @@
         {"tag": "electron"},
         {"tag": "nodejs"},
         {"tag": "desktop"}
-      ],
-      "title": "Liliusm"
+      ]
     },
     {
+      "title": "CanvasKeyboard",
       "description": "Une librairie JS permettant d'ajouter un clavier virtuel sur un site ou une appli web.",
       "img": "canvaskeyboard.png",
       "imgalt": "CanvasKeyboard",
@@ -35,8 +48,7 @@
         {"tag": "open-source"},
         {"tag": "librairie"},
         {"tag": "javascript"}
-      ],
-      "title": "CanvasKeyboard"
+      ]
     },
     {
       "title": "Yopmail Helper",
