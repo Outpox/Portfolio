@@ -10,7 +10,7 @@
   "project_text": "Projects",
   "try": "Try",
   "footer": "Made with PhpStorm, Mustache.js, Materialize, Sass, Git and more…",
-  "cv": "CV_FR_Guillaume_Migeon.png",
+  "cv": "index.html?lang=en",
   "project": [
     {
       "title": "QuizzBot",
