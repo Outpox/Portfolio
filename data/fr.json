@@ -10,7 +10,7 @@
   "project_text": "Projets",
   "try": "Essayer",
   "footer": "Fait avec PhpStorm, Vue.js, Materialize et Git",
-  "cv": "index.html?lang-fr",
+  "cv": "index.html?lang=fr",
   "project": [
     {
       "title": "QuizzBot",
