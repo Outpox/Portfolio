@@ -21,7 +21,8 @@
       "link": "https://kiwiirc.com/client/62.210.236.193/quizz",
       "tags": [
         {"tag": "open-source"},
-        {"tag": "nodejs"}
+        {"tag": "nodejs"},
+        {"tag": "ES6"}
       ]
     },
     {
