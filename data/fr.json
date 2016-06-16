@@ -5,7 +5,7 @@
   "intro1": "Je m'appelle Guillaume Migeon, j'ai ",
   "intro2": " ans et je suis développeur web et adepte de nouvelles technologies.",
   "story": "Présentation",
-  "story_text": "Je travaille actuellement chez <a href='http://www.juxta.fr/'>Juxta</a>. Pendant mon temps libre, je travaille sur des projets personnels en testant de nouvelles choses et plus particulièrement des extensions Chrome et Firefox.</br></br>Parmis les outils que j'affectionne se trouvent git, mon terminal bash, npm (que j'utilise désormais <a href='http://blog.keithcirkel.co.uk/why-we-should-stop-using-grunt/' target='_blank'> à la place de Grunt/Gulp</a>), bower, jquery, mustachejs et composer.",
+  "story_text": "Je travaille actuellement chez <a href='http://www.versusmind.eu/'>Versusmind</a> en tant que consultant. Pendant mon temps libre, je travaille sur des projets personnels en testant de nouvelles choses. Je travaille actuellement sur un projet de jeu en RV pour mon HTC Vive.</br></br>Parmis les outils que j'affectionne se trouvent git, mon terminal bash, npm (que j'utilise désormais <a href='http://blog.keithcirkel.co.uk/why-we-should-stop-using-grunt/' target='_blank'> à la place de Grunt/Gulp</a>), bower, jquery, mustachejs et composer.",
   "profile": "Profile",
   "project_text": "Projets",
   "try": "Essayer",
