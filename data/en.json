@@ -5,11 +5,11 @@
   "intro1": "My name is Guillaume Migeon, I'm ",
   "intro2": " years old and I'm a new technologies adept web developer.",
   "story": "Introduction",
-  "story_text": "I'm currently working fulltime at <a href='http://www.juxta.fr/'>Juxta</a>, in France. On my free time I work on personal projects to learn new tools and improve myself and more particularly on Chrome and Firefox extension.</br></br>Among all the tools I use, I really enjoy git, my bash terminal, npm (that I now use <a href='http://blog.keithcirkel.co.uk/why-we-should-stop-using-grunt/' target=_'blank'> instead of Grunt/Gulp</a>), bower, jquery, mustachejs and composer.",
+  "story_text": "I'm currently working fulltime as a consultant for <a href='http://www.versusmind.eu/'>Versusmind</a>, in France. On my free time I work on personal projects to learn new tools and improve myself. I'm currently working on a VR game for my HTC Vive.</br></br>Among all the tools I use, I really enjoy git, my bash terminal, npm (that I now use <a href='http://blog.keithcirkel.co.uk/why-we-should-stop-using-grunt/' target=_'blank'> instead of Grunt/Gulp</a>), bower, jquery, mustachejs and composer.",
   "profile": "Profile",
   "project_text": "Projects",
   "try": "Try",
-  "footer": "Made with PhpStorm, Mustache.js, Materialize, Sass, Git and more…",
+  "footer": "Made with PhpStorm, Vue.js, Materialize and Git",
   "cv": "index.html?lang=en",
   "project": [
     {
