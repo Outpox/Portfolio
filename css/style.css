@@ -1,6 +1,17 @@
 hr {
     width: 40px;
-    margin: 45px auto;
+    /*margin: 45px auto;*/
+}
+
+.flow-text {
+    margin: 0;
+    font-size: 1.5rem;
+}
+
+.title {
+    font-size: 1.8rem;
+    margin-top: 0;
+    margin-bottom: .5em;
 }
 
 .icon-block {
