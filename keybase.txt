@@ -1,0 +1,54 @@
+==================================================================
+https://keybase.io/outpox
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://guillaumemigeon.fr
+  * I am outpox (https://keybase.io/outpox) on keybase.
+  * I have a public key ASA1llsFQhpRdTyQymEcaoRSmeJaS0E6hE2zH5yq_r8AWAo
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "012035965b05421a51753c90ca611c6a845299e25a4b413a844db31f9caafebf00580a",
+            "host": "keybase.io",
+            "kid": "012035965b05421a51753c90ca611c6a845299e25a4b413a844db31f9caafebf00580a",
+            "uid": "27048d788d972ecf6be78d51f79afc19",
+            "username": "outpox"
+        },
+        "service": {
+            "hostname": "guillaumemigeon.fr",
+            "protocol": "https:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "client": {
+        "name": "keybase.io go client",
+        "version": "1.0.18"
+    },
+    "ctime": 1486722145,
+    "expire_in": 504576000,
+    "merkle_root": {
+        "ctime": 1486722131,
+        "hash": "cd04d172aa8209991aa18c93f7d73ab5b26653580f9bbe0ee2188458fb0040da008cf12531a01942c3790618ffe1bccc0426613abf7bf8905231de28d1018654",
+        "seqno": 867927
+    },
+    "prev": "0ace726edfb100f044c458d909a42c7a7ffdf293fc1a60b86c035450dc62bd5d",
+    "seqno": 11,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgNZZbBUIaUXU8kMphHGqEUpniWktBOoRNsx+cqv6/AFgKp3BheWxvYWTFAvl7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTIwMzU5NjViMDU0MjFhNTE3NTNjOTBjYTYxMWM2YTg0NTI5OWUyNWE0YjQxM2E4NDRkYjMxZjljYWFmZWJmMDA1ODBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwMzU5NjViMDU0MjFhNTE3NTNjOTBjYTYxMWM2YTg0NTI5OWUyNWE0YjQxM2E4NDRkYjMxZjljYWFmZWJmMDA1ODBhIiwidWlkIjoiMjcwNDhkNzg4ZDk3MmVjZjZiZTc4ZDUxZjc5YWZjMTkiLCJ1c2VybmFtZSI6Im91dHBveCJ9LCJzZXJ2aWNlIjp7Imhvc3RuYW1lIjoiZ3VpbGxhdW1lbWlnZW9uLmZyIiwicHJvdG9jb2wiOiJodHRwczoifSwidHlwZSI6IndlYl9zZXJ2aWNlX2JpbmRpbmciLCJ2ZXJzaW9uIjoxfSwiY2xpZW50Ijp7Im5hbWUiOiJrZXliYXNlLmlvIGdvIGNsaWVudCIsInZlcnNpb24iOiIxLjAuMTgifSwiY3RpbWUiOjE0ODY3MjIxNDUsImV4cGlyZV9pbiI6NTA0NTc2MDAwLCJtZXJrbGVfcm9vdCI6eyJjdGltZSI6MTQ4NjcyMjEzMSwiaGFzaCI6ImNkMDRkMTcyYWE4MjA5OTkxYWExOGM5M2Y3ZDczYWI1YjI2NjUzNTgwZjliYmUwZWUyMTg4NDU4ZmIwMDQwZGEwMDhjZjEyNTMxYTAxOTQyYzM3OTA2MThmZmUxYmNjYzA0MjY2MTNhYmY3YmY4OTA1MjMxZGUyOGQxMDE4NjU0Iiwic2Vxbm8iOjg2NzkyN30sInByZXYiOiIwYWNlNzI2ZWRmYjEwMGYwNDRjNDU4ZDkwOWE0MmM3YTdmZmRmMjkzZmMxYTYwYjg2YzAzNTQ1MGRjNjJiZDVkIiwic2Vxbm8iOjExLCJ0YWciOiJzaWduYXR1cmUifaNzaWfEQHXxbpa+kF9QpfrLGHuXt4C19w2tsCkMx5HUidZUCKFldue/EYm7vB1rwj1gcUKGnkMR2mqXlan5HjD91ZeR5A+oc2lnX3R5cGUgpGhhc2iCpHR5cGUIpXZhbHVlxCDdDwXA6J1ibontyLyaWDaCVI6XAjWSGY2lAkn5Jn1Zd6N0YWfNAgKndmVyc2lvbgE=
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/outpox
+
+==================================================================
