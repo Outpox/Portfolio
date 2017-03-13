@@ -122,5 +122,4 @@ Temporary Items
 # *.sublime-project
 
 node_modules/
-cv/
 yarn.lock
